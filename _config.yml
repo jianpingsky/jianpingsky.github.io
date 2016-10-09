@@ -2,7 +2,7 @@
 title: JianPing Site
 email: lvjianping1987@gmail.com
 description: "Focus on Data-Science & Finance."
-baseurl: "/"
+#baseurl: "/"
 #url: ""
 permalink: /:year/:title
 
