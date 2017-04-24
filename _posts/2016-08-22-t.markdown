@@ -4,7 +4,7 @@ title: sb
 tags: TXXX
 ---
 
-最近半年断断续续一直在研究一套基于 Sass map 或 Stylus hash 的 grid framework。它的理念是通过设置一串 breakpoints 划分出若干个 responsive slices 然后一次性针对所有的 slices 设置 container 与 grid（也许将来能够支持更多的值），让 responsive development 变得更加高效。结果非常满意，我个人认为这是最好用的 grid framework，不知道大家会不会同意 ;-)
+一套基于 Sass map 或 Stylus hash 的 grid framework。它的理念是通过设置一串 breakpoints 划分出若干个 responsive slices 然后一次性针对所有的 slices 设置 container 与 grid（也许将来能够支持更多的值），让 responsive development 变得更加高效。结果非常满意，我个人认为这是最好用的 grid framework，不知道大家会不会同意 ;-)
 
 - 项目主页: [rebar.io](http://rebar.io)
 - GitHub: [https://github.com/P233/Rebar](https://github.com/P233/Rebar)
@@ -13,7 +13,7 @@ tags: TXXX
 
 ## Guide
 
-Rebar 支持 Sass 与 Stylus，需要 Sass 3.4 以上版本，或者 Stylus，暂时不能用于 LibSass 3.1。
+Rebar 支持 Sass 与 Stylus，需要 Sass 3.4 以上版本，或者 Stylus，暂时不能用于 LibSass 3.1
 
 ### Box-sizing
 
