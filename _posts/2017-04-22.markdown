@@ -1,8 +1,9 @@
 ---
 layout: post
-title: 贪心算法与动态规划
-tags: 算法思
+title: gree
+tags: greedy
 ---
+
 ##什么是贪心算法
 
 贪心算法不同于机器学习算法，我感觉这类算法更像是思路，或者策略。
